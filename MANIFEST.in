@@ -1,0 +1,4 @@
+graft MinTrainer
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  MinTrainer/jupy *
+include requirements.txt
